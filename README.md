@@ -28,3 +28,6 @@ The CNN consists of six layers:
 4. A Dense layer with 64 units and ReLU activation
 5. An output layer with softmax activation for classification
 
+## Additional Resource
+[Keras](https://keras.io/api/datasets/fashion_mnist/)
+
