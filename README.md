@@ -15,7 +15,7 @@ Install the required dependencies:
 
 **Run the Python script:**
 
-`fashion_mnist_cnn.py`
+`FashionMNISTClassification.py`
 
 The model will train and output predictions for two test images.
 
